@@ -13,20 +13,21 @@
 			<li>Onde fui:
 				<ul>
 					<li>Fui na casa do Eduardo  
+                                              <img src="jsjsjs.jpg" alt="casa amarela">
 				</ul>
 			<li>O que comi:
 				<ul>
 					<li>Bolinho de arroz;
-					<img src="imagem.png" alt="bolinho de arroz">
+					<img src="bolinho.jpg" alt="bolinho de arroz">
 					<li>KFC.
-					<img src="imagem.png" alt="KFC"> 
+					<img src="ddf.jpg" alt="KFC"> 
 				</ul>
 			<li>O que bebi:
 				<ul>
 					<li>Coca-Cola;
-					<img src="imagem.png" alt="Coca-Cola">
+					<img src="coca.jpeg" alt="Coca-Cola">
 					<li>Água.
-					<img src="imagem.png" alt="Água">
+					<img src="agua.jpg" alt="Água">
 				</ul>
 		</ol>
 	</body>
